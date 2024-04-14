@@ -1,4 +1,4 @@
-Other languages: [pt-BR](./docs/REAMDE.pt-BR.md)
+
 
 # LINQ to SQL (Sample)
 A sample project to explain how .NET LINQ Queryable providers work.
